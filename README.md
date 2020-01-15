@@ -1,6 +1,7 @@
 # Atividade Final Angular + API
 Trabalho Final
-Alunos: Marcos Ferreira e Jessica Helem
+
+- Alunos: Marcos Ferreira e Jessica Helem
 
 Projeto no Google Drive
   - link:https://drive.google.com/open?id=1fUR0IEpvDwetNHaxAnRS8k6XFDB1O7pO
